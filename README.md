@@ -2,7 +2,9 @@
 
 General notes on ESP32 / micropython development.
 
-Board used: _ESP32-WROOM_
+Board used: _ESP32-WROOM_ and a tiny OLED display
+
+This project includes the [microdot](https://microdot.readthedocs.io/en/latest/intro.html) web framework.
 
 ## Toolchain
 
